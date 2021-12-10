@@ -1,3 +1,7 @@
+# Hecho por Lucas Abbate.
+# Completado en Diciembre de 2018
+
+
 import re
 import time
 import matplotlib.pyplot as plt
